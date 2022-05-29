@@ -224,26 +224,26 @@ header {
 
 .samplefourimgone {
     float: left;
-    width: 46%;
-    margin-right: 2%;
+    width: 48%;
+    margin-right: 1%;
     height: 431px;
 }
 
 .samplefourimgone img {
     height: 100%;
-    width: 100;
+    width: 100%;
 }
 
 .samplefourimgtwo {
     float: right;
-    width: 46%;
-    margin-left: 2%;
+    width: 48%;
+    margin-left: 1%;
     height: 431px;
 }
 
 .samplefourimgtwo img {
     height: 100%;
-}
+width: 100%;}
 
 .samplefive {
     width: 82%;
