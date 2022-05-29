@@ -293,7 +293,7 @@ width: 100%;}
 
 .sixitemone h4 {
     color: #999999;
-}
+margin: 10px;}
 
 .sixitemtwo {
     float: left;
@@ -301,7 +301,7 @@ width: 100%;}
 
 .sixitemtwo h4 {
     color: #999999;
-}
+margin: 10px;}
 
 .sixitemthree {
     float: right;
@@ -309,4 +309,4 @@ width: 100%;}
 
 .sixitemthree h4 {
     color: #999999;
-}
+margin: 10px;}
